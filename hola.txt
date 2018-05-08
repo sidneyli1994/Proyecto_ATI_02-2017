@@ -1,1 +1,1 @@
-Cambiando mensaje hola.txt en master
+Cambiando msj hola.txt en auxiliar
